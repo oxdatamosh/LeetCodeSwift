@@ -15,3 +15,4 @@ Swift package, no Xcode project file. Run the tests with:
 
 | # | Title | Difficulty | Topics | Complexity |
 |---|-------|------------|--------|------------|
+| 0001 | Two Sum | Easy | Array, Hash Table | O(n) / O(n) |
